@@ -9,4 +9,4 @@ function tamplateCreater(menuData) {
 
 }
 
-menuItem.insertAdjacentHTML('beforeend',tamplateCreater(menuData))
+menuItem.insertAdjacentHTML('beforeend', tamplateCreater(menuData))
